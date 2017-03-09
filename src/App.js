@@ -4,5 +4,5 @@ import SpringViews from './views/AnimatedTabs/SpringViews';
 
 export default StackNavigator({
   Home: { screen: MainScreenNavigator },
-  Chat: { screen: SpringViews }
+  SpringViews: { screen: SpringViews }
 });

@@ -1,8 +1,8 @@
 import { TabNavigator } from 'react-navigation';
-import RecentChatsScreen from './AnimatedTabs/RecentChatsScreen';
+import AnimatedViewList from './AnimatedTabs/AnimatedViewList';
 import AllContactsScreen from './LayoutAnimationTabs/AllContactsScreen';
 
 export default TabNavigator({
-  Recent: { screen: RecentChatsScreen },
+  Animated: { screen: AnimatedViewList },
   All: { screen: AllContactsScreen },
 });
