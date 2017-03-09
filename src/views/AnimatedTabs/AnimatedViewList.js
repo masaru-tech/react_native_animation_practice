@@ -7,6 +7,9 @@ import { List, ListItem } from 'react-native-elements'
 const list = [
   {
     name: 'SpringViews'
+  },
+  {
+    name: 'TimingViews'
   }
 ];
 
