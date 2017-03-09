@@ -10,6 +10,9 @@ const list = [
   },
   {
     name: 'TimingViews'
+  },
+  {
+    name: 'DecayViews'
   }
 ];
 
